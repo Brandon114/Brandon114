@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on NULL.
 - 📫 Email: robot114@icloud.com
 
-
-
-aaaaa
-
 <!---
 Brandon114/Brandon114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
