@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and Python.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on NULL.
-- 📫 Email: robot114@icloud.com
+- 📫 Email: x1148894@foxmail.com
 
 <!---
 Brandon114/Brandon114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
